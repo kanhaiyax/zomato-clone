@@ -1,0 +1,8 @@
+{
+  "name": "Zomato — Food Delivery & Restaurant Discovery",
+  "description": "Full-stack food delivery application with restaurant discovery, live tracking, menus, cart, orders, and owner & admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
